@@ -18,12 +18,14 @@ export default function AboutPage() {
           <div className="max-w-4xl mx-auto text-center">
             <h1 className="text-5xl font-bold mb-6">About SEAC</h1>
             <p className="text-xl mb-8">
-              Representing salaried employees across Canada since 1985, we are committed to protecting workers' rights,
-              advancing fair compensation, and fostering positive workplace environments.
+              Representing professionals for over 50 years, SEAC is a labour union for Engineers, IT Services, Sub
+              Contracts, Quality Assurance, ILS Training analysts, Financial analysts, and Professional Administration.
+              We are committed to providing leading employment standards and supporting increases to salaries, benefits,
+              and workplace conditions.
             </p>
             <div className="flex flex-wrap justify-center gap-4">
               <Badge variant="secondary" className="px-4 py-2 text-lg">
-                38+ Years of Service
+                50+ Years of Service
               </Badge>
               <Badge variant="secondary" className="px-4 py-2 text-lg">
                 15,000+ Members
